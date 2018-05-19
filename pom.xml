@@ -5,7 +5,7 @@
 
   <groupId>com.police</groupId>
   <artifactId>inspector</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
 
   <name>inspector</name>
   <!-- FIXME change it to the project's website -->
@@ -69,6 +69,6 @@
   <scm>
   <developerConnection>scm:git:https://github.com/ranjithkum/maven_jenkins.git</developerConnection>
 
-    <tag>APPS_1.0</tag>
+    <tag>HEAD</tag>
   </scm>
 </project>
